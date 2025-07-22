@@ -17,10 +17,6 @@ GameCV is an innovative project that leverages OpenCV to capture real-time body 
     cd GameCV
     ```
 
-2. **Install Requirements**
-    ```
-    pip install -r requirements.txt
-    ```
     Make sure your system has a working webcam.
 
 ## Usage
